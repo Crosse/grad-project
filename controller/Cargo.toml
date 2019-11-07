@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "sunray-rs",
+    "sunspec-rs",
+    "controller",
+]
