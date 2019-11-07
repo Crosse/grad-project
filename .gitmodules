@@ -1,0 +1,9 @@
+[submodule "solarnode/lib/libsunspec"]
+	path = solarnode/lib/libsunspec
+	url = git@code.crosse.org:seth/libsunspec.git
+[submodule "solarnode/lib/sunray"]
+	path = solarnode/lib/sunray
+	url = git@code.crosse.org:seth/sunray.git
+[submodule "solarnode/lib/solaredge"]
+	path = solarnode/lib/solaredge
+	url = git@code.crosse.org:seth/solaredge.git
